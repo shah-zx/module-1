@@ -1,0 +1,87 @@
+.display_container {
+  height: 400px;
+  background-color: rgb(81, 255, 0);
+margin: 50px 0px;
+  padding: 20px;
+  color:white;
+  border-radius: 30px;
+  box-shadow: 10px 10px 10px rgba(255, 166, 0, 0.459);
+  overflow-wrap: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.display_container h1 {
+  font-size: 60px;
+  text-align: center;
+  opacity: 80%;
+  transition: 1s;
+}
+
+.display_container h1:hover {
+  opacity: 100%;
+}
+.content {
+  font-size: 20px;
+  margin: 20px 0px;
+  opacity: 75%;
+}
+
+.heading {
+  font-size: 20px;
+}
+
+
+
+
+
+.btn-dark:hover {
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.247);
+  
+}     
+
+.btn-round {
+  border-radius: 50px !important;
+  width: 100px;
+}
+
+.btn-primary:hover {
+  box-shadow: 10px 10px 10px rgba(1, 204, 255, 0.363);
+  
+}
+
+.btn-danger:hover {
+  box-shadow: 10px 10px 10px rgba(255, 39, 1, 0.486);
+  
+}
+
+.btn-success:hover{
+  box-shadow:10px 10px 10px rgba(0, 128, 0, 0.212);
+  
+}
+
+.btn-warning:hover{
+  box-shadow:10px 10px 10px rgba(255, 255, 0, 0.250);
+  
+}
+.btn-secondary:hover{
+  box-shadow: 10px 10px 10px rgba(128, 128, 128, 0.342);
+  
+}
+
+
+#text_area_text {
+  border-color: 3px solid yellow;
+  border-radius: 25px;
+  padding: 10px;
+  background-color: tomato;
+  
+}
+
+
+.textarea_container {
+  margin-top: 20px;
+  ;
+}
+#name {
+}
+
